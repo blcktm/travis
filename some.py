@@ -1,3 +1,5 @@
 a = 10
 
-some = "dfghjgfhgfhjcvbnmxcvbndfghjdfghjdxfghjxcvhjdfghjdfghjkldfghjkdfghjkdfghjkfghjkdfghjklfghjklfdghjklfghjklfdghjklxcghjkfghjkfghjkfghjkgfhjk"
+some = """dfghjgfhgfhjcvbnmxcvbndfghjdfghjdxfghjxcvhjd
+fghjdfghjkldfghjkdfghjkdfghjkfghjkd
+fghjklfghjklfdghjklfghjklfdghjklxcghjkfghjkfghjkfghjkgfhjk"""  # no-qa
